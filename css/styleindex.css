@@ -1,5 +1,6 @@
 #contacto{
-    background-color: rgb(150, 146, 146);
+    background-color: #c2946e0c;
+    color: white ;
    
 }     
 .bd-placeholder-img {
@@ -51,4 +52,27 @@
     text-align: center;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
+}
+footer{
+    background-color: #150a08 ;
+    flex-wrap: wrap ;
+}
+.imagenes{
+    border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #d3c9c0d2;
+   
+}
+#footer{
+    justify-content:space-between;
+    padding-top: 50px;
+
+}
+
+button{
+    background-color: rgb(255, 145, 19);
+}
+
+a{
+    color:white;
+    text-decoration: none
 }

@@ -49,3 +49,13 @@
   line-height: 1.428571429;
   border-radius: 15px;
 }
+body{
+    background-image: url(/imagenes/cafecentro.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: whitesmoke;
+}
+button{
+    background-color: aquamarine;
+    color:black
+}
